@@ -1,0 +1,6 @@
+temp values
+t=0
+add $t0, $t1, $s4
+addi $t1 , $s2,-1
+lw $t3, 12($s3)
+sw $s5 , $t3
